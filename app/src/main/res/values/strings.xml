@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RobolectricPractice</string>
+
+    <string name="title_welcome">Welcome</string>
+    <string name="edit_username_hint">Username</string>
+    <string name="edit_email_hint">Email</string>
+    <string name="action_send">Send</string>
+</resources>
